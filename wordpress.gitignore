@@ -18,3 +18,11 @@ sitemap.xml
 wp-content/cache/
 wp-content/backups/
 sitemap.xml.gz
+
+# Extras such as node and preprocessors
+node_modules
+.sass-cache
+*.DS_Store
+
+# Built directories
+css
